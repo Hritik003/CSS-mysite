@@ -1,0 +1,39 @@
+body{
+  margin:0;
+
+  text-align: center;
+
+}
+
+h1{
+  text-align: center;
+  font-family: 'Sacramento', cursive;
+
+.btn{
+  color: blue;
+}
+
+}
+p{
+  font-family: 'Montserrat', sans-serif;
+}
+
+#mountain img{
+  vertical-align: center;
+}
+
+
+.top-cloud{
+  position: relative;
+  left:200px;
+}
+
+.bottom-cloud{
+position: relative;
+bottom:400px;
+
+}
+
+.top-container{
+  background-color: #e0ebe8;
+}
